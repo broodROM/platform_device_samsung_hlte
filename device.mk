@@ -114,6 +114,9 @@ PRODUCT_PACKAGES += \
     regulatory.bin \
     linville.key.pub.pem
 
+# dtbTool
+PRODUCT_PACKAGES += dtbTool
+
 # libxml2 is needed for camera
 PRODUCT_PACKAGES += libxml2
 
