@@ -239,5 +239,6 @@
    
     <!-- Enable CellBroadcastReceiver package in Settings menu -->
     <bool name="config_cellBroadcastAppLinks">true</bool>
-
+    
+    <bool name="config_hotswapCapable">true</bool>
 </resources>
